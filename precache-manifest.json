@@ -1,0 +1,15 @@
+{
+  "precache": [
+    "/",
+    "/assets/logo.png",
+    "/offline.html",
+    "/web/icons/log1024.png",
+    "/web/icons/log192.png",
+    "/web/icons/log512.png",
+    "/web/index.html",
+    "/web/manifest.json",
+    "/web/offline.html",
+    "/web/service_worker.js"
+  ],
+  "generated_at": 1764048620
+}

@@ -1,0 +1,8 @@
+.env
+keys.json
+serviceAccount.json
+venv/
+storage/
+__pycache__/
+gitignore
+
